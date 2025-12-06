@@ -1,0 +1,10 @@
+{
+  "name": "mcp-connector",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx @typingmind/mcp"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
