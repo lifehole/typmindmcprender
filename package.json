@@ -2,7 +2,7 @@
   "name": "mcp-connector",
   "version": "1.0.0",
   "scripts": {
-    "start": "PORT=5432 npx @typingmind/mcp 3Gj7dVZF0xle2myu0EzMl"
+    "start": "PORT=8080 npx @typingmind/mcp Gyml0aOTqbzFUe8msANQ2"
   },
   "engines": {
     "node": ">=18"
